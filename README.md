@@ -3,7 +3,7 @@
  <img src="https://graphql.org/_next/static/media/logo-wordmark.4eec1155.svg" height=170 alt="graphql" border="0" />
 </p>
 <h2 align="center">
-OPAL Fetcher Prototype for GraphQL
+<b>OPAL Fetcher Prototype for GraphQL</b>
 </h2>
 
 [Check out OPAL main repo here.](https://github.com/permitio/opal)
@@ -16,3 +16,5 @@ This fetcher is both:
 
 - **A Prototype fetch-provider for GraphQL:**
 - **Serving as an example** how to write custom fetch providers for OPAL
+
+  
