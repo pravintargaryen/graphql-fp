@@ -14,7 +14,7 @@ An OPAL [custom fetch provider](https://docs.opal.ac/tutorials/write_your_own_fe
 
 This fetcher is both:
 
-- **A Prototype fetch-provider for GraphQL:**
+- **A Prototype fetch-provider for GraphQL**
 - **Serving as an example** how to write custom fetch providers for OPAL
 
   
